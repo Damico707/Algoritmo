@@ -1,0 +1,12 @@
+Algoritmo calculo descuento
+Definir Precio, descuento, total como real
+
+Escribir "Precio"
+Leer precio 
+
+Escribir "descuento"
+Leer descuento
+
+total <- precio - descuento
+
+Escribir "total a pagar", total
